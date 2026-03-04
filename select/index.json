@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Hampstead",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-04T10:12:18.282520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hampstead Incident",
+      "artist": "Donovan",
+      "has_synced": false,
+      "path": "select/01_Hampstead_Incident_Donovan.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hampstead Girl",
+      "artist": "The Dream Academy",
+      "has_synced": true,
+      "path": "select/02_Hampstead_Girl_The_Dream_Academy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hampstead Incident",
+      "artist": "Donovan",
+      "has_synced": true,
+      "path": "select/03_Hampstead_Incident_Donovan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hampstead Incident",
+      "artist": "Bojoura",
+      "has_synced": false,
+      "path": "select/04_Hampstead_Incident_Bojoura.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hampstead Girl",
+      "artist": "The Dream Academy",
+      "has_synced": true,
+      "path": "select/05_Hampstead_Girl_The_Dream_Academy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hampstead Girl - B",
+      "artist": "The Dream Academy",
+      "has_synced": false,
+      "path": "select/06_Hampstead_Girl_-_B_The_Dream_Academy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Old Admirals (Live At the Howff, Hampstead, 5th July 1974)",
+      "artist": "Al Stewart",
+      "has_synced": true,
+      "path": "select/07_Old_Admirals_(Live_At_the_Howff,_Hampstead,_5th_July_1974)_Al_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hampstead Way",
+      "artist": "Linda Lewis",
+      "has_synced": true,
+      "path": "select/08_Hampstead_Way_Linda_Lewis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hampstead",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_Hampstead_Ariana_Grande.txt"
+    }
+  ]
+}
